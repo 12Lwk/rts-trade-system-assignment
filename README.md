@@ -33,6 +33,7 @@ The system is architected to handle high-throughput data streams efficiently and
     * **Portfolio Manager:** Maintains the state of the portfolio, including cash balance, stock holdings, and transaction history.
 
 ![System Workflow](./assets/workflow.png)
+
 *(A diagram illustrating the producer-consumer workflow through RabbitMQ)*
 
 ---
